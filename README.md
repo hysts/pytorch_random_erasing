@@ -1,5 +1,7 @@
 # PyTorch Implementation of RandomErasing
 
+![](figures/sample.png)
+
 ## Usage
 
 ```
